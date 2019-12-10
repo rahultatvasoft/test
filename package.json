@@ -1,0 +1,24 @@
+{
+  "name": "rn-test-flatlist",
+  "version": "1.0.1",
+  "description": "This is Test Package for FlatList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "flatlist",
+    "demo"
+  ],
+  "author": "Rahul Bhogayata",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  }
+}
